@@ -83,19 +83,19 @@ public class SecondActivity extends AppCompatActivity {
 
         // add a clicklistener for button
         button_goBack.setOnClickListener(v -> { // lambda version
-            //replyIntent(v);
-            launchNextActivity(v);
+            replyIntent(v);
+            //launchNextActivity(v);
         });
     }
 
-    /**
+
     public void replyIntent(View view) {
         // create a reply intent and pack the information, send it back to main activity
         Intent replyIntent = new Intent();
         replyIntent.putExtra("replyCount", receivedMessage);
         setResult(RESULT_OK, replyIntent);
         finish();
-    }*/
+    }
 
     public void launchNextActivity(View view) {
 
