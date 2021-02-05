@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="button_hello">Say hi!</string>
+    <string name="button_countUp">Count up</string>
+    <string name="textView_count">0</string>
+    <string name="toast_message">Hello!</string>
+    <string name="button_countDown">Count down</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="button_goBack">Go Back</string>
+    <string name="my_ice_cream_store">My Ice Cream Store</string>
+    <string name="search_by_name">Search by name...</string>
+    <string name="price_range">Price Range</string>
+    <string name="to">to</string>
+    <string name="from">from</string>
+    <string name="contain_dairy">Contain Dairy?</string>
+    <string name="allergy_information">Allergy information?</string>
+    <string name="search">Search</string>
+    <string name="invisible">0</string>
+    <string name="third_activity">Third Activity</string>
+    <string name="button_goNext">Go Next</string>
+</resources>
